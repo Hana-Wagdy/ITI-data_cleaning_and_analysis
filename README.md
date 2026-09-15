@@ -43,16 +43,4 @@ The ITI academic board considered offering a remote attendance option for long-c
 
 ---
 
-## 📁 Repository Structure
 
-```text
-├── data/
-│   ├── raw_data.xlsx                  # Original raw survey data (271 rows)
-│   └── ITI_Part_C_Calculations.xlsx   # Cleaned multi-sheet workbook & log
-├── notebook/
-│   └── data_cleaning_and_eda.ipynb    # Python notebook containing cleaning & analysis
-├── visualizations/
-│   ├── commute_boxplot_branches.png   # Regional commute distributions
-│   ├── scatter_score_vs_commute.png   # Score vs. Commute scatter plot
-│   └── scatter_score_vs_study.png     # Score vs. Study Hours scatter plot
-└── README.md                          # Project documentation
